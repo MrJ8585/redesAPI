@@ -1,0 +1,6 @@
+@redesAPI_HostAddress = http://localhost:5258
+
+GET {{redesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
